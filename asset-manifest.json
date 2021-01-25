@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.1288cea4.chunk.css",
-    "main.js": "/home/static/js/main.b8b9272f.chunk.js",
-    "main.js.map": "/home/static/js/main.b8b9272f.chunk.js.map",
-    "runtime-main.js": "/home/static/js/runtime-main.3cbc779c.js",
-    "runtime-main.js.map": "/home/static/js/runtime-main.3cbc779c.js.map",
-    "static/css/2.150d169a.chunk.css": "/home/static/css/2.150d169a.chunk.css",
-    "static/js/2.8c104816.chunk.js": "/home/static/js/2.8c104816.chunk.js",
-    "static/js/2.8c104816.chunk.js.map": "/home/static/js/2.8c104816.chunk.js.map",
-    "static/js/3.54f236ea.chunk.js": "/home/static/js/3.54f236ea.chunk.js",
-    "static/js/3.54f236ea.chunk.js.map": "/home/static/js/3.54f236ea.chunk.js.map",
-    "index.html": "/home/index.html",
-    "static/css/2.150d169a.chunk.css.map": "/home/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.1288cea4.chunk.css.map": "/home/static/css/main.1288cea4.chunk.css.map",
-    "static/js/2.8c104816.chunk.js.LICENSE.txt": "/home/static/js/2.8c104816.chunk.js.LICENSE.txt",
-    "static/media/home.css": "/home/static/media/background.4b32aab6.jpg",
-    "static/media/About.css": "/home/static/media/bg-contact.ad846c83.jpg"
+    "main.css": "/Neetha-francis/static/css/main.c7b6e3cf.chunk.css",
+    "main.js": "/Neetha-francis/static/js/main.b8b9272f.chunk.js",
+    "main.js.map": "/Neetha-francis/static/js/main.b8b9272f.chunk.js.map",
+    "runtime-main.js": "/Neetha-francis/static/js/runtime-main.8db7db11.js",
+    "runtime-main.js.map": "/Neetha-francis/static/js/runtime-main.8db7db11.js.map",
+    "static/css/2.150d169a.chunk.css": "/Neetha-francis/static/css/2.150d169a.chunk.css",
+    "static/js/2.8c104816.chunk.js": "/Neetha-francis/static/js/2.8c104816.chunk.js",
+    "static/js/2.8c104816.chunk.js.map": "/Neetha-francis/static/js/2.8c104816.chunk.js.map",
+    "static/js/3.54f236ea.chunk.js": "/Neetha-francis/static/js/3.54f236ea.chunk.js",
+    "static/js/3.54f236ea.chunk.js.map": "/Neetha-francis/static/js/3.54f236ea.chunk.js.map",
+    "index.html": "/Neetha-francis/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/Neetha-francis/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.c7b6e3cf.chunk.css.map": "/Neetha-francis/static/css/main.c7b6e3cf.chunk.css.map",
+    "static/js/2.8c104816.chunk.js.LICENSE.txt": "/Neetha-francis/static/js/2.8c104816.chunk.js.LICENSE.txt",
+    "static/media/home.css": "/Neetha-francis/static/media/background.4b32aab6.jpg",
+    "static/media/About.css": "/Neetha-francis/static/media/bg-contact.ad846c83.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3cbc779c.js",
+    "static/js/runtime-main.8db7db11.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.8c104816.chunk.js",
-    "static/css/main.1288cea4.chunk.css",
+    "static/css/main.c7b6e3cf.chunk.css",
     "static/js/main.b8b9272f.chunk.js"
   ]
 }
